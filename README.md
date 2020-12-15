@@ -15,3 +15,9 @@ npm install
 ```
 npm run serve
 ```
+也可以发行项目。
+```
+npm run build
+```
+## 问题反馈
+请联系邮箱466023842@qq.com
